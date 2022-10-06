@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class CircleRiddle {
-    public static void main(String[] args) {
+    public static void main(String[] args) { //main메소드
         Scanner scanner = new Scanner(System.in);
 
         int howManyBoxes, trials;
